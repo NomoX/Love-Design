@@ -1,0 +1,26 @@
+C:\Users\NomoX\AppData\Local\Temporary Projects\Love Design\bin\Debug\Love Design.exe
+C:\Users\NomoX\AppData\Local\Temporary Projects\Love Design\bin\Debug\Love Design.pdb
+C:\Users\NomoX\AppData\Local\Temporary Projects\Love Design\obj\x86\Debug\Love_Design.Form1.resources
+C:\Users\NomoX\AppData\Local\Temporary Projects\Love Design\obj\x86\Debug\Love_Design.Properties.Resources.resources
+C:\Users\NomoX\AppData\Local\Temporary Projects\Love Design\obj\x86\Debug\Love Design.csproj.GenerateResource.Cache
+C:\Users\NomoX\AppData\Local\Temporary Projects\Love Design\obj\x86\Debug\Love Design.exe
+C:\Users\NomoX\AppData\Local\Temporary Projects\Love Design\obj\x86\Debug\Love Design.pdb
+C:\Users\NomoX\documents\visual studio 2010\Projects\Love Design\Love Design\obj\x86\Debug\Love Design.exe
+C:\Users\NomoX\documents\visual studio 2010\Projects\Love Design\Love Design\obj\x86\Debug\Love Design.pdb
+C:\Users\NomoX\documents\visual studio 2010\Projects\Love Design\Love Design\bin\Debug\Love Design.exe
+C:\Users\NomoX\documents\visual studio 2010\Projects\Love Design\Love Design\bin\Debug\Love Design.pdb
+C:\Users\NomoX\documents\visual studio 2010\Projects\Love Design\Love Design\obj\x86\Debug\Love_Design.Form1.resources
+C:\Users\NomoX\documents\visual studio 2010\Projects\Love Design\Love Design\obj\x86\Debug\Love_Design.Properties.Resources.resources
+C:\Users\NomoX\documents\visual studio 2010\Projects\Love Design\Love Design\obj\x86\Debug\Love Design.csproj.GenerateResource.Cache
+C:\Users\NomoX\documents\visual studio 2010\Projects\Love Design\Love Design\obj\x86\Debug\Love Design.csprojResolveAssemblyReference.cache
+C:\Users\NomoX\documents\visual studio 2010\Projects\Love Design\Love Design\obj\x86\Debug\Love_Design.About.resources
+E:\projects\C#\Projects\Love Design\Love Design\obj\x86\Debug\Love Design.exe
+E:\projects\C#\Projects\Love Design\Love Design\obj\x86\Debug\Love Design.csprojResolveAssemblyReference.cache
+E:\projects\C#\Projects\Love Design\Love Design\obj\x86\Debug\Love_Design.About.resources
+E:\projects\C#\Projects\Love Design\Love Design\obj\x86\Debug\Love_Design.Form1.resources
+E:\projects\C#\Projects\Love Design\Love Design\obj\x86\Debug\Love_Design.Properties.Resources.resources
+E:\projects\C#\Projects\Love Design\Love Design\obj\x86\Debug\Love Design.csproj.GenerateResource.Cache
+E:\projects\C#\Projects\Love Design\Love Design\bin\Debug\Love Design.exe.config
+E:\projects\C#\Projects\Love Design\Love Design\bin\Debug\Love Design.exe
+E:\projects\C#\Projects\Love Design\Love Design\bin\Debug\Love Design.pdb
+E:\projects\C#\Projects\Love Design\Love Design\obj\x86\Debug\Love Design.pdb
